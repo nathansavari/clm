@@ -5,7 +5,7 @@ The Command Line Manager (clm) tool lets you create, list, and delete custom com
 ## Install
 
 ```bash
-go install github.com/nathansavari/clm
+go install github.com/nathansavari/clm@latest
 ```
 
 This installs a go binary that will automatically bind to your $GOPATH
