@@ -15,4 +15,3 @@ This installs a go binary that will automatically bind to your $GOPATH
 - Add a Command: clm new
 - List Commands: clm list [tag]
 - Delete a Command: clm delete
-# clm
