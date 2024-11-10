@@ -1,4 +1,4 @@
-module clm
+module github.com/nathansavari/clm
 
 go 1.23.2
 
